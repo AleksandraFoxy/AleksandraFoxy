@@ -4,7 +4,7 @@
 
 # 👩‍💻 About Me:
 
-I'm a QA Engineer learning test automation and network debugging. Currently based in Vietnam, waiting for my visa to Sydney, Australia. I'm passionate about quality assurance and building a career in software testing.
+I'm a QA Engineer specializing in manual testing and network analysis. Passionate about ensuring software quality and learning test automation.
 
 **What I do:**
 - Manual testing (web & mobile)
