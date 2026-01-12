@@ -26,8 +26,8 @@ I'm a Junior QA Engineer specializing in manual testing, API testing, and networ
 
 - 📋 [Test Cases – Shopping List App](https://docs.google.com/spreadsheets/d/1nmumOZbq941xXbBvrCqIZQ4N80E1csMm5EGyURgCsAs/edit?usp=sharing)
 - 🔀 [Pairwise – test design technique](https://docs.google.com/spreadsheets/d/1IUDWu_NAOLNTZTx1nOqEnVEakypQ_yb3VNUYzIeYvek/edit?usp=sharing)
-- 🛢️ [SQL Testing – SELECT & JOIN queries](https://github.com/AleksandraFoxy/test-cases/tree/main)
-- 🍃 [MongoDB Testing – CRUD queries](https://github.com/AleksandraFoxy/test-cases/tree/main)
+- 🛢️ [SQL Testing – SELECT & JOIN queries](https://github.com/AleksandraFoxy/test-cases/blob/main/sql-testing/queries.md)
+- 🍃 [MongoDB Testing – CRUD queries](https://github.com/AleksandraFoxy/test-cases/blob/main/mongodb-testing/mongo-queries.md)
 - 🐞 [Bug Reports (Web & Mobile, Jira-style)](https://github.com/AleksandraFoxy/bug-reports)
 - 🎥 [Charles Proxy Projects](https://github.com/AleksandraFoxy/charles-proxy-projects)
 
