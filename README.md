@@ -60,12 +60,22 @@ I'm a QA Engineer learning test automation and network debugging. Currently base
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+## 🎥 Charles Proxy Projects:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+**Network Debugging & Testing:**
 
---- -->
+I completed a comprehensive course on network traffic analysis using Charles Proxy. Here are my practical assignments:
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+- 🔍 Intercepting and modifying HTTP/HTTPS requests
+- 🛠️ Breakpoints for request/response manipulation
+- 🗺️ Map Remote for environment switching (Prod → Stage)
+- 📱 Mobile device traffic analysis
+- 🐛 Finding and reproducing bugs through network analysis
+
+📹 [Video demonstrations available](link-to-videos)
+
+---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=AleksandraFoxy&show_icons=true&theme=dark)
