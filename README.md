@@ -4,7 +4,7 @@
 
 # 👩‍💻 About Me:
 
-I'm a QA Engineer specializing in manual testing and network analysis. Passionate about ensuring software quality and learning test automation.
+I'm a Junior QA Engineer specializing in manual testing, API testing, and network traffic analysis. Passionate about ensuring software quality and learning test automation.
 
 **What I do:**
 - Manual testing (web & mobile)
@@ -17,15 +17,19 @@ I'm a QA Engineer specializing in manual testing and network analysis. Passionat
 ### 💬 Connect with me:
 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](@fox_fitness_bishkek)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/fox_fitness_bishkek)
+
+
 ---
 
-### 📝 Test Documentation:
+ ### 📝 Test Documentation:
 
-- 📋 [Test Cases](link-to-test-cases-repo)
-- 🐛 [Bug Reports](link-to-bug-reports-repo)
-- ✅ [Checklists](link-to-checklists-repo)
-- 📊 [Test Plans](link-to-test-plans-repo)
+- 📋 [Test Cases – Shopping List App](https://github.com/AleksandraFoxy/test-cases/tree/main/shopping-list-app)
+- 🔀 [Pairwise – test design technique](https://github.com/AleksandraFoxy/test-cases/tree/main/pairwise-testing)
+- 🛢️ [SQL Testing – SELECT & JOIN queries](https://github.com/AleksandraFoxy/test-cases/tree/main/sql-testing)
+- 🍃 [MongoDB Testing – CRUD queries](https://github.com/AleksandraFoxy/test-cases/tree/main/mongodb-testing)
+- 🐞 [Bug Reports (Web & Mobile, Jira-style)](https://github.com/AleksandraFoxy/bug-reports)
+- 🎥 [Charles Proxy Projects](https://github.com/AleksandraFoxy/charles-proxy-projects)
 
 ---
 
@@ -62,7 +66,7 @@ I'm a QA Engineer specializing in manual testing and network analysis. Passionat
 
 ## 🎥 Charles Proxy Projects:
 
-**Network Debugging & Testing:**
+
 
 I completed a comprehensive course on network traffic analysis using Charles Proxy. Here are my practical assignments:
 
@@ -72,7 +76,7 @@ I completed a comprehensive course on network traffic analysis using Charles Pro
 - 📱 Mobile device traffic analysis
 - 🐛 Finding and reproducing bugs through network analysis
 
-📹 [Video demonstrations available](link-to-videos)
+📹 [Video demonstrations available (Google Drive)](https://drive.google.com/drive/folders/1cBnK-89ZIClWckO7SjziMrxVoRsHvTzd?usp=sharing)
 
 ---
 
