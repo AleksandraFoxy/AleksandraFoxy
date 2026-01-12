@@ -13,8 +13,10 @@ I'm a QA Engineer learning test automation and network debugging. Currently base
 - Test documentation
 - Learning test automation
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+- 💬 Connect with me:
 
+
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](@fox_fitness_bishkek)
 ---
 
 ### 🤝 Социальные сети:
